@@ -1,4 +1,3 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 ## Myltiplayer games
 MVP version with tick-tack-toe
 
@@ -11,3 +10,4 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+[server ](https://github.com/overlort/ws-server)
